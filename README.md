@@ -52,3 +52,4 @@ Réseau
 Adresse : localhost
 
 Port : 1050
+orb -ORBInitialPort 1050 (cmd) 
